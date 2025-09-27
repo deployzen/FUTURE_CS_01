@@ -35,7 +35,3 @@ See [`Security_Report_Task1.md`](./Security_Report_Task1.md) for full details.
 
 ---
 
-## 🌐 Connect with Me
-- 🔗 [LinkedIn](https://www.linkedin.com/in/lokeshindala)
-- 📫 lokeshindala@gmail.com
-
